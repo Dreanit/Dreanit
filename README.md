@@ -8,6 +8,10 @@
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dreanit&theme=jolly&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dreanit&theme=jolly&show_icons=true" />
+</div>
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Dreanit/count.svg" alt="Visitor Count" /></h2>
 <h2 align="center">Education 🏫</h2>
 <p><strong>VIT Bhopal University</strong><br>
